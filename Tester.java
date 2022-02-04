@@ -7,6 +7,6 @@ public class Tester {
 
     @Test
     public void multiply(){
-        assertEquals(50, MultiplyByTen.multiplyByTen(10));
+        assertEquals(100, MultiplyByTen.multiplyByTen(10));
     }
 }
